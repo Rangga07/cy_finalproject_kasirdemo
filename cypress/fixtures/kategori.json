@@ -1,0 +1,22 @@
+[
+    {
+        "nama": "Rokok",
+        "deskripsi": "barang rokok"
+    },
+    {
+        "nama": "Sayuran",
+        "deskripsi": "sayuran"
+    },
+    {
+        "nama": "Minuman",
+        "deskripsi": "minuman"
+    },
+    {
+        "nama": "Ciki cikian",
+        "deskripsi": "makanan ringan"
+    },
+    {
+        "nama": "Minuman sachet",
+        "deskripsi": "Sachet"
+    }
+]

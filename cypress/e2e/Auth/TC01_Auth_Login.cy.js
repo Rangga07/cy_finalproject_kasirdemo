@@ -3,13 +3,14 @@ const LoginPage = require('../../support/pages/auth/loginPage')
 
 
 describe('User should be able to Login', () => {
-    it('with valid data', () => {
+    beforeEach(() => {
         Utilities.openWebsite();    
+    })
+    it('with valid data', () => {
         LoginPage.performPositiveLogin();
     })
 
     it('with invalid data', () => {
-        Utilities.openWebsite();
         LoginPage.performNegativeLogin();
     })
 

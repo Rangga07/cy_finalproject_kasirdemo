@@ -1,0 +1,42 @@
+[
+    {
+        "nama": "Rokok Djarum",
+        "deskripsi": "Supplier A",
+        "harga_beli": 15000,
+        "harga_jual": 17000,
+        "stok": 15,
+        "kategori": "Rokok"
+    },
+    {
+        "nama": "Bayam 1kg",
+        "deskripsi": "Supplier B",
+        "harga_beli": 8000,
+        "harga_jual": 10000,
+        "stok": 9,
+        "kategori": "Sayuran"
+    },
+    {
+        "nama": "Mizone",
+        "deskripsi": "Supplier C",
+        "harga_beli": 5000,
+        "harga_jual": 6000,
+        "stok": 20,
+        "kategori": "Minuman"
+    },
+    {
+        "nama": "Ciki Jaguar",
+        "deskripsi": "Supplier D",
+        "harga_beli": 9000,
+        "harga_jual": 11000,
+        "stok": 15,
+        "kategori": "Ciki cikian"
+    },
+    {
+        "nama": "Kopi ABC",
+        "deskripsi": "Supplier E",
+        "harga_beli": 12000,
+        "harga_jual": 13000,
+        "stok": 15,
+        "kategori": "Minuman sachet"
+    }
+]

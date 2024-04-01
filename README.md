@@ -6,6 +6,9 @@
 </head>
 <body>
     <h1>How to Install Cypress</h1>
+    <label>Nama : M Rangga Hendarmin </label><br>
+    <label>Project : Final Project Sanbercode </label>
+    <hr>
     <h2>Prerequisites</h2>
     <p>Before installing Cypress, ensure that you have the following prerequisites:</p>
     <ul>
